@@ -1,0 +1,7 @@
+{
+  "name": "pickPic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
